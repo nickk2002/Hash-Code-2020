@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582223291 source:e:\quick access\documents\info\probleme info\hashcode\contest\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
